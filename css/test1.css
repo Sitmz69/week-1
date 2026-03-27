@@ -298,14 +298,6 @@ footer{
   color: white;
 }
 
-.footer_i{
-  max-width: 1480px;
-  display: flex;
-  flex-direction:column;
-  flex: 1;
-  align-items: center;
-}
-
 footer h2 {
   color: white;
 }
@@ -323,6 +315,7 @@ footer img {
   transform: scale(1.15);
   cursor: pointer;
 }
+
 
 @media (max-width: 768px) {
 
